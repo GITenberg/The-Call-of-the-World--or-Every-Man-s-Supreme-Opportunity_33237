@@ -1,0 +1,28 @@
+_repo: The-Call-of-the-World--or-Every-Man-s-Supreme-Opportunity_33237
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doughty, William E. (William Ellison)
+    alias: Doughty, W. E. (William Ellison)
+    birthdate: 1873
+    gutenberg_agent_id: '36281'
+    url: http://www.gutenberg.org/2009/agents/36281
+description: ''
+gutenberg_issued: '2010-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Laymen''s missionary movement of the United States and Canada'
+- !lcsh 'Missionary Education Movement of the United States and Canada'
+- !lcc 'BV'
+- !lcsh 'Missions'
+title: The Call of the World; or, Every Man's Supreme Opportunity
+url: http://www.gutenberg.org/ebooks/33237
